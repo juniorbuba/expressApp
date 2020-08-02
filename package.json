@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "express app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorbuba/express.git"
+  },
+  "author": "moh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juniorbuba/express/issues"
+  },
+  "homepage": "https://github.com/juniorbuba/express#readme"
+}
