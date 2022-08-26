@@ -1,2 +1,4 @@
 # Express App
-Simple Nodejs App built using the Express Framwork 
+Manage your exercises from a simple and intuitive user interface
+
+Enjoy!
